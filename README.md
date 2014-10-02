@@ -5,13 +5,6 @@ Flat UI is a beautiful theme for [Bootstrap](http://getbootstrap.com). We have r
 To get started, check out [getting started page](http://designmodo.github.io/Flat-UI/docs/getting-started.html) or follow instructions below.
 
 
-## Links:
-
-+ [Demo Page](http://designmodo.github.io/Flat-UI/)
-+ [Download PSD](http://designmodo.com/flat-free/) (for designers)
-+ [Flat UI Pro 1.3.0](http://designmodo.com/flat/) (from $39)
-
-
 ## Quick start
 
 Three quick start options are available:
@@ -78,73 +71,11 @@ We provide compiled CSS and JS (`flat-ui.*`), as well as compiled and minified C
 
 Flat UI's documentation, included in this repo in the docs directory and publicly hosted on GitHub Pages at <http://designmodo.github.io/Flat-UI/docs/components.html>.
 
-
-## Authors
-
-**Sergey Shmidt**
-
-+ <http://shmidt.in>
-+ <http://twitter.com/monstercritic>
-
-**Sergii Iurevych**
-
-+ <http://twitter.com/iurevych>
-+ <http://github.com/iurevych>
-
-**Dmitry Pytkin**
-
-+ <http://twitter.com/pytkin>
-+ <http://github.com/pytkin>
-
+## Typeface
+Flat UI Free is made using the Lato typeface, which can be downloaded for free here: http://www.google.com/webfonts/specimen/Lato
 
 ## Copyright and license
 
 Flat UI Free is licensed under a Creative Commons Attribution 3.0 Unported (CC BY 3.0)  (http://creativecommons.org/licenses/by/3.0/) and MIT License - http://opensource.org/licenses/mit-license.html.
 
 You are allowed to use these elements anywhere you want, however we’ll highly appreciate if you will link to our [website](http://designmodo.com).
-
-
-## Typeface
-Flat UI Free is made using the Lato typeface, which can be downloaded for free here: http://www.google.com/webfonts/specimen/Lato
-
-
-## Useful Links (How To)
-
-How to Use UI Kits, Beginners Video Tips: <http://designmodo.com/how-to-use/>
-
-UI Kit Benefits: <http://designmodo.com/benefits/>
-
-
-Create a Website using UI Packs (PSD to HTML) – Day 1: <http://designmodo.com/create-website-day-1>
-
-Create a Website using UI Packs (PSD to HTML) – Day 2: <http://designmodo.com/create-website-day-2>
-
-Create a Website using UI Packs (PSD to HTML) – Day 3: <http://designmodo.com/create-website-day-3>
-
-Create a Website Design using The Bricks UI: <http://designmodo.com/website-design-bricks-ui/>
-
-What is UI Kit and Why You Should Use it: <http://designmodo.com/ui-kit-use>
-
-How Companies can Save Time and Money Using UI Kits: <http://designmodo.com/save-time-money-using-ui-kits>
-
-UI Kits for Developers – Prototyping and Homemade Design:	<http://designmodo.com/ui-kits-developers>
-
-
-More products from Designmodo: <http://designmodo.com/shop/>
-
-Tutorials: <http://designmodo.com/tutorials/>
-
-Freebies: <http://designmodo.com/freebies/>
-
-Affiliate Program (earn money): <http://designmodo.com/affiliates/>
-
-
-Social Media:
-
-Twitter: <http://www.twitter.com/designmodo>
-
-Facebook: <http://www.facebook.com/designmodo>
-
-RSS: <http://feeds.feedburner.com/designmodo>
-
-Google+: <https://www.google.com/+DesignModo>

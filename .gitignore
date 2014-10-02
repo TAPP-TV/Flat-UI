@@ -47,3 +47,4 @@ node_server.js
 # Folders to ignore
 node_modules
 bower_components
+commit_images
